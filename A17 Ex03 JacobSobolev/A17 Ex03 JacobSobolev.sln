@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex03.ConsoleUI", "Ex03.ConsoleUI\Ex03.ConsoleUI.csproj", "{B1BCB899-9600-4792-BC72-1710DBC5F33F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex03.GarageLogic", "Ex03.GarageLogic\Ex03.GarageLogic.csproj", "{6D386DD4-124E-4948-BF3D-FF1AA0D34BA6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0CBE7549-6D29-46FC-83F5-FC81F41952FF}"
+	ProjectSection(SolutionItems) = preProject
+		A17 Ex03 JacobSobolev .doc = A17 Ex03 JacobSobolev .doc
+		Exercise Checking Report.txt = Exercise Checking Report.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1BCB899-9600-4792-BC72-1710DBC5F33F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1BCB899-9600-4792-BC72-1710DBC5F33F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1BCB899-9600-4792-BC72-1710DBC5F33F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1BCB899-9600-4792-BC72-1710DBC5F33F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D386DD4-124E-4948-BF3D-FF1AA0D34BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D386DD4-124E-4948-BF3D-FF1AA0D34BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D386DD4-124E-4948-BF3D-FF1AA0D34BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D386DD4-124E-4948-BF3D-FF1AA0D34BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
